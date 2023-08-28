@@ -3,11 +3,8 @@
 
 ## Table of contents
 - [Problem Statement](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%202:%20Call%20Center%20Dashboard#Problem-Statement)
-- [Data Preparation](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%202:%20Call%20Center%20Dashboard#Data-Preparation)
-- [Data Modeling](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%202:%20Call%20Center%20Dashboard#Data-Modeling)
-- [Data Visualization](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%202:%20Call%20Center%20Dashboard#Data-Visualization)
 - [Analysis and Insights](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%202:%20Call%20Center%20Dashboard#Analysis-and-Insights)
-- [Shareable Link](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%202:%20Call%20Center%20Dashboard#Shareable-Link)
+
 
 
 # Problem Statement
@@ -25,57 +22,6 @@
     - Calls by time
     - Average speed of answer
     - Agents performance quadrant -> average handle time(talk duration) vs calls answered
-
-# Data Sourcing
-
-The Dataset used for this analysis was provided by [Pwc Switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) and available here: [Call Center Dataset](https://github.com/calmk/PWC-Virtual-Case-Experience/blob/main/Task%202%3A%20Call%20Center%20Dashboard/01%20Call-Center-Dataset.xlsx)
-# Data Preparation
-
-The dataset was loaded into Microsoft Power BI Desktop for transformation in Power Query and modeling.
-
-### Data Cleaning
-
-Data Cleaning for the dataset was done in Power Query as follows:
-
-- Unnecessary columns were removed
-- Each of the columns in the table was validated to have the correct data type
-- Unnecessary rows were removed
-
-
-# Data Modeling
-
-After the dataset was cleaned and transformed, it was ready to be modeled, but the dataset just included one table, so the Data Modeling is nothing much to modify
-
-# Data Visualization
-Add Image in Repo
-
-
-Data visualization for the datasets was done in Microsoft Power BI Desktop and designed in PowerPoint, the dashboard includes:
-
-- One main dashboard
-- Six tooltip pages
-
-
-### Key Performance Indicators and Metrics:
-
-**About Calls and Agents:** 
-
-- Overall calls answered/abandoned
-- Calls received by time, day 
-- Average speed of answer, handle duration
-- Resolved rate by Agents, Topics
-- Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
-
-**About Customer satisfaction:**
-
-- Overall customer satisfaction
-- Customer satisfaction distribution by Agents, Topics
-### Measures
-
-The measure used in visualization are:
-
-
-
 
 # Analysis and Insights
 The purpose of this dashboard is to serve as self-exploratory for managers, but I still note some highlighted points that I recognize below:
